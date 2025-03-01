@@ -5,10 +5,10 @@
 ## 📌 Índice
 - [📖 Sobre](#sobre)
 - [🛠️ Tecnologias](#tecnologias)
-- [⚙️ Configuração](#configuração)
+- [⚙️ Configuração](#configuracao)
 - [📌 Endpoints](#endpoints)
-- [📤 Contribuição](#contribuição)
-- [📄 Licença](#licença)
+- [📤 Contribuição](#contribuicao)
+- [📄 Licença](#licenca)
 
 ---
 
@@ -37,7 +37,7 @@ A API segue as boas práticas REST e pode ser integrada facilmente a outros sist
 
 ---
 
-## ⚙️ Configuração
+## ⚙️ Configuracao
 
 ### ✅ Pré-requisitos
 
@@ -99,7 +99,7 @@ POST /produtos
 
 ---
 
-## 📤 Contribuição
+## 📤 Contribuicao
 
 Quer contribuir? Siga estes passos:
 
@@ -113,6 +113,6 @@ Quer contribuir? Siga estes passos:
 
 ---
 
-## 📄 Licença
+## 📄 Licenca
 
 📜 Este projeto está licenciado sob a [MIT License](LICENSE).
